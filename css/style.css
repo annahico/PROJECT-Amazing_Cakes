@@ -42,3 +42,14 @@
 .dropdown:hover .dropdown-content {
     display: block;
 }
+
+header {
+    background-color: pink;
+    color: white;
+    padding: 3rem 2rem;
+}
+
+header h1 {
+    font-size: 4rem;
+    text-align: center;
+}
