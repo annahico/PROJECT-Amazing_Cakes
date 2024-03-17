@@ -25,3 +25,28 @@ h1 {
 .boton {
     background-color: pink;
 }
+
+
+footer {
+    background-color: #ffecf9;
+    padding: 3rem;
+    color: black;
+}
+
+footer section {
+    float: right;
+}
+
+footer p {
+    margin: 0;
+}
+
+footer a {
+    transition: color 0.3s ease;
+    color: black;
+    text-decoration: none;
+}
+
+footer a:hover{
+    color: cornflowerblue;
+}
