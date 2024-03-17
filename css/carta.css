@@ -1,11 +1,11 @@
 body {
-    background-color: snow;
+    background-color: rgb(255, 225, 244);
 }
 
 h1 {
     font-size: 4rem;
     text-align: center;
-    background-color: pink;
+    background-color: rgb(255, 225, 244);
     color: white;
     padding: 3rem 2rem;
 }
@@ -16,6 +16,10 @@ h1 {
     background-color: pink;
     color: white;
     padding: 3rem 2rem;
+}
+
+.card {
+    background-color: rgb(255, 225, 244);
 }
 
 .boton {
