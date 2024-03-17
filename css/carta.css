@@ -1,14 +1,15 @@
 body {
-    background-color: rgb(255, 225, 244);
+    background-color: snow;
 }
 
 h1 {
     font-size: 4rem;
     text-align: center;
-    background-color: rgb(255, 225, 244);
+    background-color: pink;
     color: white;
     padding: 3rem 2rem;
 }
+
 
 .titulo {
     font-size: 4rem;
