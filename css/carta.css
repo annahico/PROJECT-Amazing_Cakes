@@ -19,6 +19,10 @@ h1 {
     padding: 3rem 2rem;
 }
 
+.bg-danger-subtle {
+    background-color: pink;
+}
+
 .card {
     background-color: rgb(255, 225, 244);
 }
