@@ -9,3 +9,15 @@ h1 {
     color: white;
     padding: 3rem 2rem;
 }
+
+.titulo {
+    font-size: 4rem;
+    text-align: center;
+    background-color: pink;
+    color: white;
+    padding: 3rem 2rem;
+}
+
+.boton {
+    background-color: pink;
+}

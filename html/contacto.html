@@ -23,7 +23,7 @@
             integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
     </head>
 
-    <body>
+    <body >
         <header class="sticky-top">
             <div class="container-fluid p-0">
                 <nav class="navbar navbar-expand-lg bg-danger-subtle">
@@ -52,17 +52,21 @@
                 </nav>
             </div>
         </header>
-        <h1 id="titulo">Amazing Cakes</h1>
+        <h1 id="titulo ">Amazing Cakes</h1>
 
         <!--CUERPO DE LA PAGINA-->
-        <main class="vh-100">
-            <div class="container-fluid text-white">
-                <div class="row">
-                    <div class="col-2 col-lg-4 bg-warning">SideBar</div>
-                    <div class="col-10 col-lg-8 bg-danger">Main</div>
-                </div>
+        <form class=>
+            <div class="mb-3">
+                <label for="exampleInputEmail1" class="form-label">Email address</label>
+                <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                <div id="emailHelp"></div>
             </div>
-        </main>
+            <div class="mb-3">
+                <label for="exampleInputPassword1" class="form-label">Password</label>
+                <input type="password" class="form-control" id="exampleInputPassword1">
+            </div>
+                <button type="submit" class="btn btn-success">Submit</button>
+        </form>
 
         <!--PIE DE PAGINA-->
     <footer>
