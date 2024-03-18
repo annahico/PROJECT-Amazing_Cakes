@@ -2,7 +2,13 @@ body {
     background-color: snow;
 }
 
-.allura-regular {
+
+h5 {
+    font-family: "Allura", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+.card-text {
     font-family: "Allura", cursive;
     font-weight: 400;
     font-style: normal;
