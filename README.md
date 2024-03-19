@@ -2,11 +2,13 @@ CAST/ENG
 
 # 🍰 AMAZING CAKES 🍰  (Restaurante Digital - Página Web)
 
-<img align="right" src="https://i.pinimg.com/originals/10/fc/80/10fc802fd9265606a38d7f6404f8616f.gif" width="400" />
+<img align="right" src="https://i.pinimg.com/originals/10/fc/80/10fc802fd9265606a38d7f6404f8616f.gif" width="200" />
 
 Este proyecto tiene como objetivo diseñar y crear la página web para un restaurante digital, aplicando los conocimientos adquiridos en HTML5, CSS3, CSS Layout y utilizando componentes de Bootstrap. La página web constará de tres páginas hipervinculadas mínimas: Home, Menú y Contacto.
 
 ## 📑 Descripción del Proyecto 📑
+
+<img align="right" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" width="200" />
 
 El proyecto constará de las siguientes vistas mínimas:
 
@@ -17,6 +19,8 @@ El proyecto constará de las siguientes vistas mínimas:
 - 📧 Vista Contacto: En esta página se proporcionará un formulario para que los clientes puedan contactar con la empresa. Además, se mostrarán otros detalles de contacto, como dirección física, número de teléfono y dirección de correo electrónico.
 
 ## ⌨️ Tecnologías Utilizadas ⌨️
+
+<img align="right" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952pyhf3ubrmaz4jwnhwbwfp9q5asjg2ygyly6b6uk4&ep=v1_gifs_search&rid=200w.gif&ct=g" width="200" />
 
 Para el desarrollo del proyecto se utilizarán las siguientes tecnologías:
 
@@ -31,7 +35,7 @@ Para el desarrollo del proyecto se utilizarán las siguientes tecnologías:
 
 # 🍰 AMAZING CAKES 🍰  (Digital Restaurant - Website)
 
-<img align="right" src="https://i.pinimg.com/originals/10/fc/80/10fc802fd9265606a38d7f6404f8616f.gif" width="400" />
+<img align="right" src="https://i.pinimg.com/originals/10/fc/80/10fc802fd9265606a38d7f6404f8616f.gif" width="200" />
 
 This project aims to design and create the website for a digital restaurant, applying the knowledge acquired in HTML5, CSS3, CSS Layout, and using Bootstrap components. The website will consist of three minimum hyperlinked pages: Home, Menu, and Contact.
 
