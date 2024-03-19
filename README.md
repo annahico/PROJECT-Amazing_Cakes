@@ -8,7 +8,7 @@ Este proyecto tiene como objetivo diseñar y crear la página web para un restau
 
 ## 📑 Descripción del Proyecto 📑
 
-<img align="right" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" width="200" />
+<img align="right" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" width="300" />
 
 El proyecto constará de las siguientes vistas mínimas:
 
