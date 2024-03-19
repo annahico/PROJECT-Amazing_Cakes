@@ -31,6 +31,9 @@ Para el desarrollo del proyecto se utilizarán las siguientes tecnologías:
 - Bootstrap: Se incluirán componentes de Bootstrap para agilizar el desarrollo y garantizar la consistencia en el diseño.
 
 
+
+
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 🍰 AMAZING CAKES 🍰  (Digital Restaurant - Website)
@@ -41,6 +44,8 @@ This project aims to design and create the website for a digital restaurant, app
 
 ## 📑 Project Description 📑
 
+<img align="right" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" width="300" />
+
 The project will consist of the following sections:
 
 - 🏡 Home: In this section, the history of the pastry shop will be presented from its humble beginnings to where it is today. Images and descriptions will be shown that illustrate the evolution of the business over time.
@@ -50,6 +55,8 @@ The project will consist of the following sections:
 - 📧 Contact: This page will provide a form so that customers can contact the company. Additionally, other contact details such as physical address, phone number, and email address will be displayed.
 
 ## ⌨️ Technology ⌨️
+
+<img align="right" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952pyhf3ubrmaz4jwnhwbwfp9q5asjg2ygyly6b6uk4&ep=v1_gifs_search&rid=200w.gif&ct=g" width="200" />
 
 The following technologies will be used for the development of the project:
 
