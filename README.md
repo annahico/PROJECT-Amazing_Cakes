@@ -1,4 +1,4 @@
-CAST/ENG
+🇪🇸CAST/🇬🇧ENG
 
 # 🍰 AMAZING CAKES 🍰  (Restaurante Digital - Página Web)
 
@@ -29,9 +29,6 @@ Para el desarrollo del proyecto se utilizarán las siguientes tecnologías:
 - CSS3: Para el diseño y la presentación visual de las páginas.
 
 - Bootstrap: Se incluirán componentes de Bootstrap para agilizar el desarrollo y garantizar la consistencia en el diseño.
-
-
-
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
