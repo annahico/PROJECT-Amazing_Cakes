@@ -31,6 +31,9 @@ Para el desarrollo del proyecto se utilizarán las siguientes tecnologías:
 - Bootstrap: Se incluirán componentes de Bootstrap para agilizar el desarrollo y garantizar la consistencia en el diseño.
 
 
+
+
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # 🍰 AMAZING CAKES 🍰  (Digital Restaurant - Website)
