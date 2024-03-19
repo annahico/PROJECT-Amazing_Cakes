@@ -8,7 +8,7 @@ Este proyecto tiene como objetivo diseñar y crear la página web para un restau
 
 ## 📑 Descripción del Proyecto 📑
 
-<img align="right" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" width="500" />
+<img align="right" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" width="600" />
 
 El proyecto constará de las siguientes vistas mínimas:
 
@@ -44,7 +44,7 @@ This project aims to design and create the website for a digital restaurant, app
 
 ## 📑 Project Description 📑
 
-<img align="right" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" width="500" />
+<img align="right" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" width="600" />
 
 The project will consist of the following sections:
 
