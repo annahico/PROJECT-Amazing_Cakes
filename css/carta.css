@@ -5,7 +5,7 @@ body {
 h1 {
     font-size: 10rem;
     text-align: center;
-    background-color: #ffecf9;
+    background-color:rgb(255, 225, 244);
     color: black;
     padding: 3rem 2rem;
     font-family: "Allura", cursive;
@@ -14,12 +14,17 @@ h1 {
 }
 
 
-.titulo {
-    font-size: 4rem;
+#titulo {
+    font-size: 5rem;
     text-align: center;
-    background-color: pink;
-    color: white;
+    background-color: rgb(255, 225, 244);
+    /* Corregido */
+    color: black;
+    /* Corregido */
     padding: 3rem 2rem;
+    font-family: "Allura", cursive;
+    font-weight: 400;
+    font-style: normal
 }
 
 .bg-danger-subtle {
@@ -30,18 +35,26 @@ h2 {
     font-family: "Allura", cursive;
 }
 
-.card {
+.col-3.col-3.card-1,
+.col-3.col-3.card-2,
+.col-3.col-3.card-3,
+.col-3.col-3.card-4,
+.col-3.col-3.card-5,
+.col-3.col-3.card-6,
+.col-3.col-3.card-7,
+.col-3.col-3.card-8,
+.col-3.col-3.card-9 {
     background-color: rgb(255, 225, 244);
 }
 
-.card-text{
+.card-text {
     font-family: "Allura", cursive;
     font-weight: 400;
     font-style: normal;
 }
 
 .boton {
-    background-color: pink;
+    background-color: rgb(255, 104, 212);
     border: 0px;
     color: black;
     padding: 5px
@@ -49,7 +62,7 @@ h2 {
 
 
 footer {
-    background-color: #ffecf9;
+    background-color: rgb(255, 225, 244);
     padding: 3rem;
     color: black;
 }
@@ -68,6 +81,6 @@ footer a {
     text-decoration: none;
 }
 
-footer a:hover{
+footer a:hover {
     color: cornflowerblue;
 }
