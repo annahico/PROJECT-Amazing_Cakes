@@ -11,11 +11,11 @@ body {
 }
 
 .container {
-    max-width: 600px;
-    margin: 50px auto;
-    padding: 20px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
+    max-width: 37.5rem;
+    margin: 3.125rem auto;
+    padding: 1.25rem;
+    border: 0.063rem solid #ccc;
+    border-radius: 0.313rem;
 }
 
 #titulo {
