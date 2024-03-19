@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-🇪🇸CAST/🇬🇧ENG
-=======
-🇪🇸 CAST / 🇬🇧 ENG
->>>>>>> 4b9877d9dd76b72b9f36c82796ab9314b5285f7d
+🇪🇸 CAST/ 🇬🇧ENG
 
 # 🍰 AMAZING CAKES 🍰  (Restaurante Digital - Página Web)
 
