@@ -2,6 +2,10 @@ body {
     background-color: snow;
 }
 
+.custom-header {
+    background-color: rgb(255, 225, 244); /* Cambia el color a tu preferencia */
+}
+
 .card-body {
     font-family: "Allura", cursive;
     font-weight: 400;
@@ -14,9 +18,13 @@ body {
     font-style: normal;
 }
 
-img {
-    width: 15rem;
+.card img {
+    width: 55rem; /* Cambia el tamaño a tu preferencia */
+    display: block; /* Asegura que la imagen se comporte como un bloque */
+    margin-left: auto; /* Centra horizontalmente */
+    margin-right: auto; /* Centra horizontalmente */
 }
+
 
 #titulo {
     font-size: 5rem;
