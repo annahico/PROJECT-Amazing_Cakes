@@ -2,6 +2,10 @@ body {
     background-color: snow;
 }
 
+.custom-header {
+    background-color: rgb(253, 191, 230); 
+}
+
 h1 {
     font-size: 10rem;
     text-align: center;
@@ -53,9 +57,9 @@ h2 {
 
 .boton {
     background-color: rgb(255, 104, 212);
-    border: 0px;
+    border: 0rem;
     color: black;
-    padding: 5px
+    padding: 0.313rem;
 }
 
 

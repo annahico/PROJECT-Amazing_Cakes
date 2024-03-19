@@ -5,6 +5,11 @@ body {
     box-sizing: border-box;
 }
 
+
+.custom-header {
+    background-color: rgb(253, 191, 230); 
+}
+
 .container {
     max-width: 600px;
     margin: 50px auto;
