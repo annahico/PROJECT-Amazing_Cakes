@@ -3,7 +3,7 @@ body {
 }
 
 .custom-header {
-    background-color: rgb(255, 225, 244); /* Cambia el color a tu preferencia */
+    background-color: rgb(255, 225, 244); 
 }
 
 .card-body {
@@ -19,10 +19,9 @@ body {
 }
 
 .card img {
-    width: 55rem; /* Cambia el tamaño a tu preferencia */
-    display: block; /* Asegura que la imagen se comporte como un bloque */
-    margin-left: auto; /* Centra horizontalmente */
-    margin-right: auto; /* Centra horizontalmente */
+    width: 55rem; 
+    display: block; 
+    margin-left: auto; 
 }
 
 
