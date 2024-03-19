@@ -1,10 +1,14 @@
+<<<<<<< HEAD
 🇪🇸CAST/🇬🇧ENG
+=======
+🇪🇸 CAST / 🇬🇧 ENG
+>>>>>>> 4b9877d9dd76b72b9f36c82796ab9314b5285f7d
 
 # 🍰 AMAZING CAKES 🍰  (Restaurante Digital - Página Web)
 
 <img align="right" src="https://i.pinimg.com/originals/10/fc/80/10fc802fd9265606a38d7f6404f8616f.gif" width="200" />
 
-Este proyecto tiene como objetivo diseñar y crear la página web para un restaurante digital, aplicando los conocimientos adquiridos en HTML5, CSS3, CSS Layout y utilizando componentes de Bootstrap. La página web constará de tres páginas hipervinculadas mínimas: Home, Menú y Contacto.
+Este proyecto tiene como objetivo diseñar y crear la página web para un restaurante digital, aplicando los conocimientos adquiridos en HTML5, CSS3, CSS Layout (Flexbox & Grid) y utilizando componentes de Bootstrap. La página web constará de tres páginas hipervinculadas mínimas: Home, Menú y Contacto.
 
 ## 📑 Descripción del Proyecto 📑
 
@@ -37,7 +41,7 @@ Para el desarrollo del proyecto se utilizarán las siguientes tecnologías:
 
 <img align="right" src="https://i.pinimg.com/originals/10/fc/80/10fc802fd9265606a38d7f6404f8616f.gif" width="200" />
 
-This project aims to design and create the website for a digital restaurant, applying the knowledge acquired in HTML5, CSS3, CSS Layout, and using Bootstrap components. The website will consist of three minimum hyperlinked pages: Home, Menu, and Contact.
+This project aims to design and create the website for a digital restaurant, applying the knowledge acquired in HTML5, CSS3, CSS Layout (Flexbox & Grid) and using Bootstrap components. The website will consist of three minimum hyperlinked pages: Home, Menu, and Contact.
 
 ## 📑 Project Description 📑
 
