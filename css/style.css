@@ -18,10 +18,10 @@ img {
     width: 15rem;
 }
 
-h1 {
-    font-size: 8rem;
+#titulo {
+    font-size: 5rem;
     text-align: center;
-    background-color: #ffecf9;
+    background-color: rgb(255, 225, 244);
     color: black;
     padding: 3rem 2rem;
     font-family: "Allura", cursive;
@@ -29,8 +29,9 @@ h1 {
     font-style: normal
 }
 
+
 footer {
-    background-color: #ffecf9;
+    background-color: rgb(255, 225, 244);
     padding: 3rem;
     color: black;
 }
