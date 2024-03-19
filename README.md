@@ -1,4 +1,4 @@
-CAST/ENG
+🇪🇸CAST/🇬🇧ENG
 
 # 🍰 AMAZING CAKES 🍰  (Restaurante Digital - Página Web)
 
@@ -8,7 +8,7 @@ Este proyecto tiene como objetivo diseñar y crear la página web para un restau
 
 ## 📑 Descripción del Proyecto 📑
 
-<img align="right" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" width="300" />
+<img align="right" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" width="350" />
 
 El proyecto constará de las siguientes vistas mínimas:
 
@@ -20,7 +20,7 @@ El proyecto constará de las siguientes vistas mínimas:
 
 ## ⌨️ Tecnologías Utilizadas ⌨️
 
-<img align="right" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952pyhf3ubrmaz4jwnhwbwfp9q5asjg2ygyly6b6uk4&ep=v1_gifs_search&rid=200w.gif&ct=g" width="200" />
+<img align="right" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952pyhf3ubrmaz4jwnhwbwfp9q5asjg2ygyly6b6uk4&ep=v1_gifs_search&rid=200w.gif&ct=g" width="150" />
 
 Para el desarrollo del proyecto se utilizarán las siguientes tecnologías:
 
@@ -29,9 +29,6 @@ Para el desarrollo del proyecto se utilizarán las siguientes tecnologías:
 - CSS3: Para el diseño y la presentación visual de las páginas.
 
 - Bootstrap: Se incluirán componentes de Bootstrap para agilizar el desarrollo y garantizar la consistencia en el diseño.
-
-
-
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -44,7 +41,7 @@ This project aims to design and create the website for a digital restaurant, app
 
 ## 📑 Project Description 📑
 
-<img align="right" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" width="300" />
+<img align="right" src="https://i.pinimg.com/originals/21/11/61/21116158daaeb1459b4ec0758505e1ad.gif" width="350" />
 
 The project will consist of the following sections:
 
@@ -56,7 +53,7 @@ The project will consist of the following sections:
 
 ## ⌨️ Technology ⌨️
 
-<img align="right" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952pyhf3ubrmaz4jwnhwbwfp9q5asjg2ygyly6b6uk4&ep=v1_gifs_search&rid=200w.gif&ct=g" width="200" />
+<img align="right" src="https://media2.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952pyhf3ubrmaz4jwnhwbwfp9q5asjg2ygyly6b6uk4&ep=v1_gifs_search&rid=200w.gif&ct=g" width="150" />
 
 The following technologies will be used for the development of the project:
 
