@@ -27,8 +27,8 @@ h1 {
     font-style: normal
 }
 
-.bg-danger-subtle {
-    background-color: pink;
+.custom-header {
+    background-color: rgb(253, 191, 230); 
 }
 
 h2 {

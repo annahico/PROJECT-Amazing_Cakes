@@ -1,9 +1,11 @@
 body {
     background-color: snow;
+    padding: 0;
+    margin: 0;
 }
 
 .custom-header {
-    background-color: rgb(253, 191, 230); 
+    background-color: rgb(253, 191, 230);
 }
 
 .card-body {
@@ -19,9 +21,9 @@ body {
 }
 
 .card img {
-    width: 55rem; 
-    display: block; 
-    margin-left: auto; 
+    width: 55rem;
+    display: block;
+    margin-left: auto;
 }
 
 
@@ -57,6 +59,6 @@ footer a {
     text-decoration: none;
 }
 
-footer a:hover{
+footer a:hover {
     color: cornflowerblue;
 }
