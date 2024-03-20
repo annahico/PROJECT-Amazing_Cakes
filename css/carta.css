@@ -1,9 +1,11 @@
 body {
     background-color: snow;
 }
+
 .custom-header {
-    background-color: rgb(255, 225, 244)!important; 
+    background-color: rgb(255, 225, 244);
 }
+
 h1 {
     font-size: 10rem;
     text-align: center;
@@ -14,7 +16,6 @@ h1 {
     font-weight: 400;
     font-style: normal
 }
-
 
 #titulo {
     font-size: 5rem;
@@ -28,7 +29,7 @@ h1 {
 }
 
 .custom-header {
-    background-color: rgb(253, 191, 230); 
+    background-color: rgb(253, 191, 230);
 }
 
 h2 {
@@ -59,10 +60,10 @@ img {
     height: 20rem;
 }
 
-
 .boton-padding{
     padding: 2% 2%;
 }
+
 .boton {
     background-color: rgb(255, 104, 212);
     border-radius:10px;
