@@ -24,11 +24,11 @@ El proyecto constará de las siguientes vistas mínimas:
 
 Para el desarrollo del proyecto se utilizarán las siguientes tecnologías:
 
-- HTML5: Para la estructura y el contenido de las páginas web.
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) : Para la estructura y el contenido de las páginas web.
   
-- CSS3: Para el diseño y la presentación visual de las páginas.
+- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) : Para el diseño y la presentación visual de las páginas.
 
-- Bootstrap: Se incluirán componentes de Bootstrap para agilizar el desarrollo y garantizar la consistencia en el diseño.
+- ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) : Se incluirán componentes de Bootstrap para agilizar el desarrollo y garantizar la consistencia en el diseño.
 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -57,8 +57,8 @@ The project will consist of the following sections:
 
 The following technologies will be used for the development of the project:
 
-- HTML5: For the structure and content of web pages.
+- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  : For the structure and content of web pages.
 
-- CSS3: For the design and visual presentation of the pages.
+- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) : For the design and visual presentation of the pages.
 
-- Bootstrap: Bootstrap components will be included to speed up development and ensure design consistency.
+- ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) : Bootstrap components will be included to speed up development and ensure design consistency.
