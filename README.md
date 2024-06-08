@@ -67,7 +67,8 @@ The following technologies will be used for the development of the project:
 
 ## Link :dart:
 
-https://github.com/annahico/PROJECT-Backend.git
+https://github.com/annahico/PROJECT-Amazing_Cakes
+.git
 
 ***
 ## Author :wave:
