@@ -62,3 +62,16 @@ The following technologies will be used for the development of the project:
 - ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) : For the design and visual presentation of the pages.
 
 - ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) : Bootstrap components will be included to speed up development and ensure design consistency.
+
+***
+
+## Link :dart:
+
+https://github.com/annahico/PROJECT-Backend.git
+
+***
+## Author :wave:
+
+- **Anna Hidalgo Costa**
+- [GitHub](https://github.com/annahico) - [LinkedIn](https://www.linkedin.com/in/annahico/)
+
